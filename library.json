@@ -13,5 +13,5 @@
         "url": "https://github.com/pablozg/fauxmoESP"
     },
     "version": "1.0.0",
-    "frameworks": "Arduino",
+    "frameworks": "Arduino"
 }
