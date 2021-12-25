@@ -79,7 +79,8 @@ typedef struct {
     bool state;
     uint8_t type;
     unsigned char value;
-    char uniqueid[13];
+    // char uniqueid[13];
+    char uniqueid[28];
 } fauxmoesp_device_t;
 
 class fauxmoESP {
